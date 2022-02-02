@@ -45,3 +45,5 @@ Features-
 - Mayank
 - Lyfian1000
 - MRUNKNOWN667
+- Sonu
+- ItzPrashXD
