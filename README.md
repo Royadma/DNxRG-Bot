@@ -1,1 +1,1 @@
-# DNxRG-Bot
+# DNxRG-Server-Managment-Bot
