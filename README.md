@@ -30,3 +30,7 @@ Features-
 
 
 ![preview3](/assets/pre4.png)
+
+
+
+# How To Add & Configure **DNxRG Bot*
