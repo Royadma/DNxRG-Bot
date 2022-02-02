@@ -35,6 +35,6 @@ Features-
 
 # How To Add **DNxRG Bot**
 
-## You Can Watch The [Youtube Tutorial](https://youtube.com) To Configure And Connect The Bot!
+## You Can Watch The [Youtube Tutorial](https://youtu.be/E1rYE8606n8) To Configure And Connect The Bot!
 
 # [BOT INVITE LINK](https://discord.com/api/oauth2/authorize?client_id=903227478502441001&permissions=8&scope=bot%20applications.commands)
