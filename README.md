@@ -33,4 +33,6 @@ Features-
 
 
 
-# How To Add & Configure **DNxRG Bot*
+# How To Add & Configure **DNxRG Bot**
+
+## You Can Also Watch The [Youtube Tutorial](https://youtube.com)
