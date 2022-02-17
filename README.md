@@ -40,8 +40,8 @@ Features-
 # [BOT INVITE LINK](https://discord.com/api/oauth2/authorize?client_id=903227478502441001&permissions=8&scope=bot%20applications.commands)
 
 ##Credits -
-- KaranGamerz
 - Royadma
+- KaranGamerz
 - Mayank
 - Lyfian1000
 - MRUNKNOWN667
